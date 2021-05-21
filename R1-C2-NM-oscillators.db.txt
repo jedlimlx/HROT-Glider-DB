@@ -6,18 +6,19 @@ Dot::B/S0:B2345678/S012345678:1:0:0:1:1:o!
 ::B02348/S013:B0234578/S0123:6:0:0:1:1:o!
 Domino::B/S1:B345678/S012345678:1:0:0:2:1:2o!
 ::B0127/S:B012345678/S02345:2:0:0:2:1:2o!
-::B0127/S:B012345678/S02345:2:0:0:2:1:2o!
 ::B013/S:B0134678/S0234:2:0:0:2:1:2o!
 ::B01/S14:B0134568/S012345:2:0:0:2:1:2o!
 ::B024/S:B023478/S023:2:0:0:2:1:2o!
+::B/S12:B45678/S012345678:1:0:0:3:1:3o!
+::B012367/S:B012345678/S034:2:0:0:3:1:3o!
 ::B01/S05:B013458/S012345:2:0:0:3:1:obo!
 ::B012/S126:B0124567/S0123456:2:0:0:3:1:3o!
 Blinker:John Conway, 1970:B3/S2:B345678/S02345678:2/2:0:0:3:1:3o!
 ::B0126/S15:B0124568/S01345:2:0:0:3:1:3o!
 ::B3/S25:B345678/S0245678:2:0:0:4:1:4o!
-Duoplet (still life):unknown:B/S1:B345678/S012345678:1:0:0:2:2:o$bo!
+Duoplet (still life)::B/S1:B345678/S012345678:1:0:0:2:2:o$bo!
 ::B0127/S:B012345678/S02345:2:0:0:2:2:o$bo!
-Duoplet (oscillator):Jason Summers:B2/S:B2345678/S02345678:2:0:0:2:2:o$bo!
+Duoplet (oscillator)::B2/S:B2345678/S02345678:2:0:0:2:2:o$bo!
 ::B01/S16:B0134568/S0123456:2:0:0:2:2:o$bo!
 ::B02/S13:B023478/S0123:2:0:0:2:2:o$bo!
 ::B/S2:B45678/S012345678:1:0:0:2:2:o$2o!
@@ -29,6 +30,16 @@ Block:John Conway, 1970:B/S3:B345678/S012345678:1:0:0:2:2:2o$2o!
 ::B024/S:B0234568/S01246:2:0:0:2:2:2o$2o!
 ::B01/S34:B0134578/S012345:2:0:0:2:2:2o$2o!
 ::B02348/S03:B023458/S0123:6:0:0:2:2:2o$2o!
+::B/S123:B35678/S012345678:1:0:0:3:2:obo$2o!
+::B0124567/S:B012345678/S05:2:0:0:3:2:obo$2o!
+::B/S23:B45678/S012345678:1:0:0:3:2:2o$b2o!
+::B012356/S:B012345678/S014:2:0:0:3:2:2o$b2o!
+::B/S23:B45678/S012345678:1:0:0:3:2:3o$bo!
+::B012356/S:B012345678/S014:2:0:0:3:2:3o$bo!
+::B/S24:B4678/S012345678:1:0:0:3:2:obo$3o!
+::B0123456/S:B012345678/S01:2:0:0:3:2:obo$3o!
+::B/S35:B45678/S012345678:1:0:0:3:2:3o$3o!
+::B01235/S:B012345678/S0124:2:0:0:3:2:3o$3o!
 Ant (oscillator)/Bleeper:Mark Niemiec and Harry J. Riley, 1972:B3/S3:B345678/S01345678:2/2:0:0:3:2:b2o$2o!
 ::B0125/S25:B0124578/S01245:2:0:0:3:2:b2o$2o!
 ::B3/S24:B345678/S01245678:4/4:0:0:3:2:2o$3o!
@@ -149,7 +160,7 @@ Phoenix:MIT group, 1971:B3/S:B345678/S2345678:2/2:0:0:8:8:4bo$2bobo$6bo$2o$6b2o$
 :Bullet51, 2016:B3/S12:B3678/S1278:7:0:0:8:9:4bobo$3bo$4bo2bo$5b3o2$3o$o2bo$4bo$bobo!
 :Rob Liston, 2020:B3/S23:B378/S2378:20/2:0:0:9:8:8bo$5o3bo$2o3bo2bo$6bo$5b2o$bo$2b2ob2o$5b2o!
 ::B36/S125:B368/S125678:11:0:0:11:7:2o$4bo$5bobo2$3bobo$6bo$9b2o!
-:wwei23, 2018:B3/S2:B3678/S25678:3:0:0:11:7:8b3o$6b2o$5bobo$5bo$3bobo$3b2o$3o!
+Breath of Evil::B3/S2:B3678/S25678:3:0:0:11:7:8b3o$6b2o$5bobo$5bo$3bobo$3b2o$3o!
 :Bullet51, 2016:B3/S12:B378/S0125678:5:0:0:9:9:2bo$2bo$2obo2bo$2bo2bo2$3bo2bo$2bo2bob2o$6bo$6bo!
 ::B3/S125:B3678/S12578:8/2:0:0:9:9:b3o$bo5b2o$2bob3obo$2bo5bo$2bo3bo$o5bo$ob3obo$2o5bo$5b3o!
 :LaundryPizza03, 2020:B3/S03:B35678/S0345678:3:0:0:9:9:bo2$obo2$b2o$3bo$2bobobo$4bo3bo$6bo!
@@ -769,7 +780,7 @@ White Whale:Andrew Trevorrow, before 2016:B345/S:B34578/S45678:160000046:0:0:29:
 ::B7/S234:B37/S01234578:14/2:0:0:8:9:3b2o$3b2o$o6bo$8o$bo$8o$o6bo$3b2o$3b2o!
 ::B6/S23457:B367/S0123457:3:0:0:5:9:2ob2o$bobo$o3bo$5o2$5o$o3bo$bobo$2ob2o!
 ::B3/S01:B3678/S0145678:16/2:0:0:4:10:o$bo$2bo$2bo$2bo$o2bo3$2bo$3bo!
-:LaundryPizza03, 2020:B3/S5678:B23678/S0345678:2/2:0:0:7:7:bo2bo$2b3obo$6o$b5o$b6o$ob3o$2bo2bo!
+::B3/S5678:B23678/S0345678:2/2:0:0:7:7:bo2bo$2b3obo$6o$b5o$b6o$ob3o$2bo2bo!
 :LaundryPizza03, 2020:B23/S45678:B238/S045678:4:0:0:9:9:bo2bo2bo$2b5o$9o$b2obob2o$b2o3b2o$b3o2b2o$5ob3o$2b5o$bo2bo2bo!
 :LaundryPizza03, 2020:B23/S45678:B23/S045678:8:0:0:9:11:bo2bo2bo$2b5o$9o$bobob3o$b3o2b2o$b2o3b2o$3o2b4o$b2o2b3o$b7o$ob3o3bo$2bo2bo!
 :LaundryPizzza03, 2020:B3/S34:B23578/S034678:2:0:0:7:7:2bo2bo$ob3o$bo3b2o$bo3bo$2o3bo$2b3obo$bo2bo!
@@ -1203,3 +1214,88 @@ Hexafrob::B34/S34:B34678/S034578:6:0:0:4:3:bo$4o$2bo!
 ::B36/S23:B3678/S23678:3:0:0:8:8:4b2o$3bo2bo$5bobo$bobo3bo$o3bobo$obo$bo2bo$2b2o!
 :Arie Paap and Blinkerspawn, 2017:B378/S23:B378/S238:54:0:0:63:63:19bobo19bobo$18bob2o19b2obo$18bo3b2o15b2o3bo$16b2ob2o3bo13bo3b2ob2o$17bobob3o15b3obobo$17bo27bo$18b2obo4b2ob2ob2ob2o4bob2o$19bo4bo2bob2ob2obo2bo4bo$18b2o2b4obo7bob4o2b2o$17bo8bob7obo8bo$17bob2ob3o3bo2bo2bo3b3ob2obo$18bob2o2b2obo7bob2o2b2obo$19bobo19bobo$21b2o4b3o3b3o4b2o$17b4o4bobo7bobo4b4o$25bo11bo$3bo18bobo13bobo18bo$3b3o3b2o3bo6bobo15bobo6bo3b2o3b3o$b2o3bobo2bo2bo6b2o17b2o6bo2bo2bobo3b2o$o2b2ob3obobobo33bobobob3ob2o2bo$bobo6b2o2bo33bo2b2o6bobo$2o2bobo4b3o3b2o25b2o3b3o4bobo2b2o$2bobo3bobo2bo2bobo25bobo2bo2bobo3bobo$2bobo3bobo6bo27bo6bobo3bobo$3bo3b2ob2o4bo29bo4b2ob2o3bo$8bo2bo2b2o11b2o5b2o11b2o2bo2bo$6bo2bo18bo5bo18bo2bo$6b3o2bob2o10bo2bo5bo2bo10b2obo2b3o$9b2o2bo11b3o7b3o11bo2b2o$6b2obo3bo35bo3bob2o$6b2obo43bob2o$9b2o41b2o$6b2obo43bob2o$6b2obo3bo35bo3bob2o$9b2o2bo11b3o7b3o11bo2b2o$6b3o2bob2o10bo2bo5bo2bo10b2obo2b3o$6bo2bo18bo5bo18bo2bo$8bo2bo2b2o11b2o5b2o11b2o2bo2bo$3bo3b2ob2o4bo29bo4b2ob2o3bo$2bobo3bobo6bo27bo6bobo3bobo$2bobo3bobo2bo2bobo25bobo2bo2bobo3bobo$2o2bobo4b3o3b2o25b2o3b3o4bobo2b2o$bobo6b2o2bo33bo2b2o6bobo$o2b2ob3obobobo33bobobob3ob2o2bo$b2o3bobo2bo2bo6b2o17b2o6bo2bo2bobo3b2o$3b3o3b2o3bo6bobo15bobo6bo3b2o3b3o$3bo18bobo13bobo18bo$25bo11bo$17b4o4bobo7bobo4b4o$21b2o4b3o3b3o4b2o$19bobo19bobo$18bob2o2b2obo7bob2o2b2obo$17bob2ob3o3bo2bo2bo3b3ob2obo$17bo8bob7obo8bo$18b2o2b4obo7bob4o2b2o$19bo4bo2bob2ob2obo2bo4bo$18b2obo4b2ob2ob2ob2o4bob2o$17bo27bo$17bobob3o15b3obobo$16b2ob2o3bo13bo3b2ob2o$18bo3b2o15b2o3bo$18bob2o19b2obo$19bobo19bobo!
 Rob's p16:Rob Liston, 2020:B3/S23:B378/S2378:16/2:0:0:8:9:5b2o$2bo2b2o$bo4bo$bo4bo$6bo$2obobo$2ob2o2$5b3o!
+::B3/S238:B345678/S02368:2:0:0:5:5:3o$4o$5o$b4o$2b3o!
+:Lewis Patterson, 2013:B36/S235:B368/S02358:10:0:0:7:4:2b3o$2bobo$obobobo$2o3b2o!
+:Lewis Patterson, 2013:B3/S235:B3678/S12358:10/2:0:0:5:5:o3bo$2o$2bo$3bo$3b2o!
+:Pteriforever, 2013:B36/S235:B36/S23578:3:0:0:6:7:bo$2o$3b2o$2bobo$2b4o$3bobo$3b2o!
+:Pteriforever, 2013:B36/S235:B368/S0235678:5:0:0:9:9:2o2bo2b2o$o2bobo2bo$3b3o$b2o3b2o$obo3bobo$b2o3b2o$3b3o$o2bobo2bo$2o2bo2b2o!
+::B6/S235:B3678/S01234568:2:0:0:5:4:2ob2o$bobo$bobo$2ob2o!
+:Pteriforever, 2013:B36/S235:B3678/S02358:4:0:0:8:8:o2bob3o$o3bo$o$bob2o2bo$o2b2obo$7bo$3bo3bo$3obo2bo!
+:Pteriforever, 2013:B36/S23:B3678/S0123578:4:0:0:10:10:6b2o$5bobo$2o3bo$o2b2obo$b2o3bo$3bo3b2o$3bob2o2bo$4bo3b2o$2bobo$2b2o!
+:Lewis Patterson, 2013:B36/S235:B368/S023568:6:0:0:7:4:2o3b2o$obobobo$2b3o$b5o!
+:Lewis Patterson, 2013:B36/S235:B3678/S02357:8/2:0:0:9:9:7b2o$6bobo$2b2o3bo$3bo$4bo$5b2o$2bo3bo$2o$2o!
+:Lewis Patterson, 2013:B36/S235:B3678/S235:9:0:0:7:7:2bo3bo$2b2o$4bo$5bo$bo3b2o$obo$2o!
+:Lewis Patterson, 2013:B36/S235:B368/S2357:24:0:0:14:14:4bo$3b3o$3bo2bo$5bo5b2o$12b2o$10bobo$11bo$2bo$bobo$2o$b2o5bo$7bo2bo$8b3o$9bo!
+:Lewis Patterson, 2013:B36/S235:B368/S235:84/2:0:0:8:8:3o3b2o$3o3b2o$6b2o3$2o$2o3b3o$2o3b3o!
+:Josh Ball, 2014:B36/S235:B368/S235:7:0:0:21:13:2b2o5b2ob2obobo$2bo4b3o3bob2obo$b3o2bob2ob2o2bobobo$5bo2bobobobo2bo2bo$ob2ob3o2bo3bobobobo$2obobo4bobobobob2o$3bob5obo2b2obo$2obobo4bobobobob2o$ob2ob3o2bo3bobobobo$5bo2bobobobo2bo2bo$b3o2bob2ob2o2bobobo$2bo4b3o3bob2obo$2b2o5b2ob2obobo!
+:Josh Ball, 2014:B36/S235:B3678/S023578:9:0:0:13:12:2b2ob3ob2o$2bo7bo$3b2obob2o$5bobo$b3o2bo2b3o$o2b7o2bo$2o9b2o$5bobo$5b3o$6bo$5bobo$6bo!
+:LaundryPizza03, 2020:B2/S12:B2678/S1245678:3:0:0:10:10:4bo$3b2obo$6bobo$2b2obo2b2o$5bo$b3obob2o$5b2o$2obo4b2o$bobob2obo$3bo2bo!
+Bipole:MIT group, 1970:B3/S23:B35678/S02345678:2/2:0:0:5:5:2o$obo2$2bobo$3b2o!
+::B35/S236:B35678/S02368:4/2:0:0:5:5:bobo$bo2bo$o$bob2o$2bo!
+::B5/S23:B35678/S01235678:2/2:0:0:6:4:2b2o$3o2bo$o2b3o$2b2o!
+::B35/S236:B35678/S023678:3:0:0:7:3:2obobo$ob2o2bo$4b2o!
+::B35/S23:B3578/S0236:8/2:0:0:8:4:bo4bo$b6o$ob4obo$b6o!
+::B35/S236:B3578/S023678:9:0:0:5:3:2ob2o$bobo$2ob2o!
+::B35/S236:B3568/S23678:10/2:0:0:7:4:2b3o$2o3b2o$o2bo2bo$bo3bo!
+::B3/S236:B3578/S0123678:4/2:0:0:9:9:4bo$3bobo$4bo$bo2bo2bo$obo2b2obo$bo5bo$4bo$3bobo$4bo!
+::B35/S236:B3578/S23678:10:0:0:8:8:2b4o$2bo2bo$2o4b2o$o6bo$o6bo$2o4b2o$2bo2bo$2b4o!
+::B35/S236:B3578/S23678:24/4:0:0:4:3:2b2o$o2bo$3o!
+::B35/S236:B358/S2368:68/2:0:0:4:4:b3o$obo$2o$o!
+:Layz Boi, 2020:B013456/S12:B013456/S12:96/2:0:0:51:12:bo47bo$3o9b3o33b3o$bo10bobo10b2o22bo$13bo12b2o15bo$27b2o9b2o4bo$27b2obo7b2obo3bo$27b2obo7b2obo3bo$27b2o9b2o4bo$13bo12b2o15bo$bo10bobo10b2o22bo$3o9b3o33b3o$bo47bo!
+:LaundryPizza03, 2020:B013456/S012:B013456/S012:132/2:0:0:50:28:20bo8bo$19b3o6b3o$20bo8bo6$bo17bobo26bo$3o16b2obo24b3o$bo16b2ob2o25bo$17bo3bo5$17bo3bo$bo16b2ob2o25bo$3o16b2obo24b3o$bo17bobo26bo6$20bo8bo$19b3o6b3o$20bo8bo!
+:Layz Boi, 2020:B013456/S012:B013456/S012:84/2:0:0:32:3:bo4bo3bo19bo$3o2b2obob2o17b3o$bo3b3ob3o18bo!
+:Josh Ball, 2016:B36/S1357:B3678/S13578:30/2:0:0:7:4:o4bo$obo3bo$b3ob2o$2bo!
+:LaundryPizza03, 2020:B36/S13578:B36/S13578:10:0:0:8:3:o6bo$8o$o6bo!
+:LaundryPizza03, 2020:B36/S13578:B368/S13578:14/2:0:0:6:6:b2o$ob2o$3obo$bob3o$2b2obo$3b2o!
+:Layz Boi, 2020:B01347/S024:B01347/S024:40/2:0:0:29:29:17bobobo$bo15bobobo$17bobobo$3bo4$26b3o2$26b3o2$26b3o6$3o2$3o2$3o4$25bo$7bobobo$7bobobo15bo$7bobobo!
+::B0137/S24:B0134578/S02345:2:0:0:4:2:b2o$o2bo!
+::B0127/S26:B0123578/S02346:2:0:0:4:3:b2o$o2bo$o2bo!
+:LaundryPizza03, 2020:B012/S05:B012/S05:124/2:0:0:10:4:4b2o$ob6obo2$2b2o2b2o!
+::B0124567/S012345:B0124567/S012345:124/2:0:0:8:4:2b4o$b6o$8o$b2o2b2o!
+:LaundryPizza03, 2020:B01367/S3:B01367/S3:136/4:0:0:3:3:o2$3o!
+:dani, 2020:B0136/S0123:B0135/S0123:56/2:0:0:10:29:3bobo2$3bobo3$4b2o$4b2o3$2o6b2o$2o6b2o3$4b2o$4b2o12$3bobo2$3bobo!
+:dani, 2020:B0136/S0123:B0136/S0123:812/2:0:0:214:81:190bobo2$190bobo$21bobo2$21bobo12$123b2o$122b4o2$54bo2bo$53b2o2b2o64b2o$52bob4obo59bo3b2o3bo$54b4o60bo3b4o3bo$52b8o63b2o$51b10o61bo2bo$53b6o$53b6o$51bob6obo$53bob2obo$54b4o63b2o2b2o$54b4o65b2o$55b2o66b2o$55b2o52bo13b2o13bo$53b6o49b3o8b10o8b3o$107bob2o9b8o9b2obo$106bo2b2o9b8o9b2o2bo$103bo3b2o9b12o9b2o3bo$102b2obo10b16o10bob2o65bobo$55b2o45b2obo10b16o10bob2o$obo100bo3b2o9b12o9b2o3bo66bobo$54bo2bo48bo2b2o7b12o7b2o2bo$obo51bo2bo49bob2o7b12o7b2obo$108b3o7bob8obo7b3o$55b2o52bo10bobo2bobo10bo3$122bo2bo$122b4o$53b6o63b4o$55b2o66b2o$55b2o64b2o2b2o$54b4o$54b4o63bo4bo$53bob2obo61b3o2b3o$51bob6obo59bo2b2o2bo$53b6o62b2o2b2o$53b6o61bo6bo$51b10o60bob2obo$52b8o59bob2o2b2obo$54b4o61b10o$52bob4obo60b8o$53b2o2b2o61b8o$54bo2bo61bo2b4o2bo$120b8o$120bo2b2o2bo10$190bobo2$190bobo$21bobo2$21bobo!
+:LaundryPizza03, 2020:B034/S012:B0347/S012:28:0:0:3:3:bo$3o$bo!
+::B3/S1348:B35678/S0134678:3:0:0:3:3:obo$bo$obo!
+::B012457/S25:B0124578/S025:6:0:0:3:3:obo$bo$obo!
+:kaarel, 2020:B3/S:B3678/S5678:4:0:0:11:15:5bobobo$2b3o2bo$obo6b2o$5bo$bo2b3obobo$b2obo3bo$bo4bo$bo3bo$bo4bo$b2obo3bo$bo2b3obobo$5bo$obo6b2o$2b3o2bo$5bobobo!
+:LaundryPizza03, 2020:B35/S:B35678/S678:4:0:0:11:11:5bo2$3b2ob2o$2bo2bo2bo2$2obo3bob2o$2bo5bo$obo5bobo$ob7obo$o9bo$obo2bo2bobo!
+::B35/S:B35678/S4678:4/2:0:0:12:5:2bo6bo$obo2b2o2bobo$b2o6b2o$obob4obobo$2bo6bo!
+::B35/S:B3578/S345678:4/2:0:0:12:5:2bo6bo$obo2b2o2bobo$obo6bobo$obob4obobo$2bo6bo!
+Two Blockers Hassling R-Pentomino:Robert Wainwright, 1990:B3/S23:B38/S23:72/2:0:0:30:14:4b2o19bo$4o4b2o10b3ob2o2b2o$3ob2o2b2o10b4o4b2o$5bo18b2o4$7b2o12b2o$7b2o12b2o2$18b3o$17bo$17bo2bo$18b2o!
+Roseluck:Tanner Jacobi, 2016:B3/S23:B38/S238:72/2:0:0:26:20:o24bo$3o20b3o$3bo18bo$2b2o18b2o3$19bo$19b2o$9b2o9bo$8b2o9bo$8bo8bobo$9bo7bobo$5b2o11bo$5b2o3$7b2o8b2o$3b2obobo8bobob2o$3bob2obobo4bobob2obo$9b2o4b2o!
+Figure Eight:Simon Norton, 1970:B3/S23:B378/S237:8:0:0:6:6:2o$2obo$4bo$bo$2bob2o$4b2o!
+::B012/S017:B01268/S017:4:0:0:8:9:o6bo2$2b4o$2b4o$2bo2bo$2b4o$2b4o2$o6bo!
+::B023456/S1345:B023456/S012345:4:0:0:6:7:2b2o$b4o$6o$6o$6o$b4o$2b2o!
+:FWKnightship, 2020:B023456/S12345:B023456/S012345:8/2:0:0:23:7:6o11b6o$6o11b6o$2o2b2o11b2o2b2o$6o2b3o6b6o$2o2b2o11b2o2b2o$6o11b6o$6o11b6o!
+::B2/S06:B2678/S0125678:4/2:0:0:5:1:obobo!
+::B2/S0246:B2678/S0245678:6/2:0:0:5:1:obobo!
+::B35/S5678:B35678/S05678:4:0:0:5:5:bo$ob3o$b4o$b4o$b4o!
+::B3567/S567:B35678/S5678:6/2:0:0:8:5:bobobobo$6o$2b6o$obobobo$2bobo!
+::B356/S5678:B35678/S5678:8/2:0:0:8:6:2b4o$2b4o$8o$2b4o$ob4obo$2bo!
+::B356/S5678:B35678/S5678:10/2:0:0:8:5:bobobobo$6o$2b6o$ob3obo$5bo!
+::B3568/S5678:B35678/S5678:12:0:0:10:6:bo2b2o2bo$3b4o$10o$2b6o$obob2obobo$2bo4bo!
+::B3567/S567:B35678/S5678:14/2:0:0:10:6:bo3bo$3bobobobo$8o$2b8o$obobobo$2bo5bo!
+:Achim Flammenkamp, 1994:B3/S23:B38/S023678:8/2:0:0:9:9:b2o$o$bo3bo$bo3b2o$3bobo$2b2o3bo$3bo3bo$8bo$6b2o!
+R2D2:Peter Raynham, early 1970s:B3/S23:B378/S0235678:8/2:0:0:11:10:5bo$4bobo$3bobobo$3bobobo$2obo3bob2o$2obo3bob2o$3bo3bo$3bobobo$4bobo$5bo!
+:LaundryPizza03, 2020:B3/S0236:B3678/S02368:8/4:0:0:4:4:3o$b3o$3o$2bo!
+::B2/S246:B267/S1245678:3:0:0:3:3:3o$obo$3o!
+::B24/S2456:B2467/S1245678:4:0:0:3:3:3o$obo$3o!
+:LaundryPizza03, 2020:B5678/S234578:B5678/S0234578:53:0:0:9:10:3o$4o$7o$8o$9o$9o$8o$7o$3o$bo!
+:FWKnightship, 2020:B38/S238:B38/S238:430/2:0:0:153:140:40b2o3b2o$40b2o2bob3o$44bo4bo$40b4ob2o2bo$40bo2bobobob2o$43bobobobo$44b2obobo$48bo2$34b2o$35bo7b2o$35bobo5b2o$36b2o7$46b2o$46bo$47b3o$49bo2$106b2o3b2o$106b2o2bob3o$110bo4bo$106b4ob2o2bo$106bo2bobobob2o$109bobobobo$87bo2bo19b2obobo$85b3o2b3o21bo$84bo3b2o3bo$84bobo4bo2bo5b2o$85b3obob2obo6bo7b2o$91bo2b2o5bobo5b2o$85b6o2bo2bo5b2o$32b2o3b2o45bobo7bobo$32b2o2bob3o43bo3b2o3b2ob2o$36bo4bo43b3ob2o2bo3bo10b2o$32b4ob2o2bo45bobob2ob3o10bobo$7bo24bo2bobobob2o51bo14bo$5b5o14b2o9bobobobo47bo$4bo5bo13bo11b2obobo51bo18b2o$4bo2b3o12bobo15bo50bo20bo$3b2obo15b2o89b3o$3bo2b4o16b2o87bo$4b2o3bo3b2o12bo7b2o$6b3o4b2o12bobo5b2o$6bo21b2o25b2o$3b2obo49bo86bo$3b2ob2o48bobo82b3o$57b2o81bo$140b2o$14b2o$15bo15bo$12b3o16b2o5b2o108b2ob2o$12bo17bobo5bo110bob2o$39b3o107bo$41bo99b2o4b3o$141b2o3bo3b2o$146b4o2bo$132b2o15bob2o$131bobo12b3o2bo$35b2o94bo13bo5bo$34b2o94b2o14b5o$36bo111bo7$4bo$2b5o14b2o$bo5bo13bo$bo2b3o12bobo$2obo15b2o$o2b4o$b2o3bo3b2o$3b3o4b2o60bo38bo$3bo71b4o32b3o$2obo68bo6bo34bo25bo$2ob2o67bo3bo10b2o24b2o23b3o$74b2ob2o4bobobo49bo$76bo12b2o46b2o$11b2o75bo$12bo81b2o$9b3o82bobo48b2ob2o$9bo86bo49bob2o$96b2o25b2o21bo$74bo41b2o5bobo12b2o4b3o$73bobo40b2o7bo12b2o3bo3b2o$37bo36bo50b2o16b4o2bo$37b3o89b2o15bob2o$40bo20bo50bo15bobo12b3o2bo$39b2o18bo51bobob2o11bo13bo5bo$63bo47bobobobo9b2o14b5o$58bo51b2obobobo2bo24bo$56b3ob2obobo45bo2b2ob4o$55bo3bo2b2ob3o43bo4bo$55b2ob2o3b2o3bo43b3obo2b2o$56bobo7bobo45b2o3b2o$49b2o5bo2bo2b6o$42b2o5bobo5b2o2bo$42b2o7bo6bob2obob3o$51b2o5bo2bo4bobo$59bo3b2o3bo$38bo21b3o2b3o$37bobob2o19bo2bo$37bobobobo$36b2obobobo2bo$37bo2b2ob4o$37bo4bo$38b3obo2b2o$40b2o3b2o2$103bo$103b3o$106bo$105b2o3$107b2o$106bo2bo$106b2ob2o$107bobo$108bo6b2o$115bobo$117bo$117b2o2$104bo$103bobob2o$103bobobobo$102b2obobobo2bo$103bo2b2ob4o$103bo4bo$104b3obo2b2o$106b2o3b2o!
+:Josh Ball, 2016:B3567/S1278:B35678/S1278:40/2:0:0:3:8:3o$2o$bo$2bo$2bo$bo$2o$3o!
+:Josh Ball, 2016:B3567/S127:B35678/S1278:100/4:0:0:5:8:b2o$4bo$2bo2$3b2o2$obo$obo!
+:Apple Bottom, 2015:B45/S01235:B4578/S0123578:5:0:0:3:3:3o2$bo!
+:toroidalet, 2020:B3578/S23:B3578/S2378:48/4:0:0:39:37:15bobo$15b3o2$15b3o8bo$15bobo7b3o4$25b3o$26bo$5b2ob2o7bo$6bobo7bobo$5b2ob2o5bobobo$16bobo$17bo3bo11bo3bo$20bobo9b2o3b2o$19bobobo9bo3bo$20bobo$10b2o9bo$9bo$bo3bo6bo$2o3b2o2bob3o$bo3bo6bo2bo$15bo$12bobo14b2ob2o$30bobo$29b2ob2o$12bo$11b3o4$11b3o7bobo$12bo8b3o2$21b3o$21bobo!
+::B2/S04:B25678/S045678:3:0:0:4:1:4o!
+::B01348/S1236:B01348/S1236:3:0:0:4:1:4o!
+::B3/S235:B378/S02358:14/2:0:0:3:2:3o$bo!
+::B34/S267:B34/S267:68/2:0:0:3:7:3o$2bo$2bo$obo$2bo$2bo$3o!
+:David Raucci and JP21 and Matthias Merzenich, 2021:B3/S23:B3/S23:76:0:0:23:28:b2o$obo$obob2o$bobobo$3bo$2b2o$b3o$b3o8bobo$b3o8bobo$b3o8b3o$2b2o$3bo$bobobo$obob2o$obo$b2o4$7b2o3b3o$7bo$4b2obo10b2o$2bo2bob2o2b5o3bo$2b2obo3b2o6bobob2o$5bo11bobo2bo$5b2o7b2obob2o$17bo$10b3o3b2o!
+:LaundryPizza03, 2021:B02/S035:B023578/S01235:4/2:0:0:9:9:2bobo2$o2$o7bo2$8bo2$4bobo!
+::B245/S26:B245678/S26:5:0:0:26:25:4bo2$5b2o$ob5o$2ob4o$3o2b2o3bo2bo$3bo4bo4bo$5bo2b2ob5o$7b2o2bo2bo$5bobobo4b3o$6b3ob2o2b3o$11b2ob2ob3o$5b2o2bobo2bob2o2bo$10b3ob5obo$10b4ob4o$8bob5obo2b5o$8bob2o2b5o2bob2o$10bob6ob3ob2o$12bo3b5ob3o$15b8o2bo$15b4ob5o$15b3o2bobo2bo$16b2o4b2obo$16b6o$16bob2o!
+::B023/S23:B0236/S0123:2:0:0:8:8:3b2o$b3o$b3o$3o4bo$o4b3o$4b3o$4b3o$3b2o!
+:LaundryPizza03, 2021:B0236/S0123:B0236/S0123:20/2:0:0:21:21:8bo7bo$8bo7bo$8bo7bo$8bo7bo$17b4o4$4o4$17b4o4$4o$4bo7bo$4bo7bo$4bo7bo$4bo7bo!
+:LaundryPizza03, 2021:B367/S05678:B3678/S05678:43:0:0:18:15:7b4o$6b6o$5b8o$4b10o$3b12o$2b14o$18o$18o$18o$2b14o$3b12o$4b10o$5b8o$6b6o$7b4o!
+:David Raucci, 2021:B3/S23:B3/S23:486/2:0:0:62:53:9b2o40b2o$10bo40bo$10bobo36bobo$11b2o36b2o13$5bo50bo$3b3o50b3o$2bo3b2o46b2o3bo$bob2o3bo26b2o16bobob2obo$bobo4bo25bo2bo16bobobobo$2obobobo25bo2bo21bob2o$3bo3bo26bobo18bo2bo$3bob2o49bobo$2b2ob2o48b2ob2o4$2b2ob2o48b2ob2o$3bobo49b2obo$3bo2bo18bobo26bo3bo$2obo21bo2bo25bobobob2o$bobobobo16bo2bo25bo4bobo$bob2obobo16b2o26bo3b2obo$2bo3b2o46b2o3bo$3b3o50b3o$5bo50bo13$11b2o36b2o$10bobo36bobo$10bo40bo$9b2o40b2o!
+:David Raucci, 2021:B3/S23:B3/S23:217:0:0:82:82:46b2o$43bo6bo$42bo8bo$45b4o$42b3o4b3o$35b2o6b2ob2ob2o6b2o$35b2o7b6o7b2o$45b4o6$45b4o$35b2o7b6o7b2o$35b2o6b2ob2ob2o6b2o$42b3o4b3o$45b4o$42bo8bo$43bo6bo$46b2o2$45b3o$5b2o7b2o16b2o10bo3bo$5b2o7b2o16b2o10bo3bo$45b3o3$44b3o$47b4o$2bobo11bobo15b2o13b2o$bo2b2o9b2o2bo9b3ob2obo8bo4bo$4b3o7b3o12b2obo3bo12bo7b2o$3bo2b2o5b2o2bo5b2o4bo6bo9bo3bo6b2o$o2bob3o5b3obo2bobo2bo3bo5bo14b2o$o2bob3o5b3obo2bobo2bo2bo4bo13bo3bo14b2o7b2o$3bo2b2o5b2o2bo4bo2bo2bo2bo16b3o15b2o7b2o$4b3o7b3o6b2o3bo$bo2b2o9b2o2bo$2bobo11bobo3$63bobo11bobo$62bo2b2o9b2o2bo$53bo3b2o6b3o7b3o$5b2o7b2o15b3o16bo2bo2bo2bo4bo2b2o5b2o2bo$5b2o7b2o14bo3bo13bo4bo2bo2bobo2bob3o5b3obo2bo$30b2o14bo5bo3bo2bobo2bob3o5b3obo2bo$23b2o6bo3bo9bo6bo4b2o5bo2b2o5b2o2bo$23b2o7bo12bo3bob2o12b3o7b3o$31bo4bo8bob2ob3o9bo2b2o9b2o2bo$31b2o13b2o15bobo11bobo$31b4o$35b3o3$34b3o$33bo3bo10b2o16b2o7b2o$33bo3bo10b2o16b2o7b2o$34b3o2$34b2o$31bo6bo$30bo8bo$33b4o$30b3o4b3o$23b2o6b2ob2ob2o6b2o$23b2o7b6o7b2o$33b4o6$33b4o$23b2o7b6o7b2o$23b2o6b2ob2ob2o6b2o$30b3o4b3o$33b4o$30bo8bo$31bo6bo$34b2o!
