@@ -1299,3 +1299,25 @@ R2D2:Peter Raynham, early 1970s:B3/S23:B378/S0235678:8/2:0:0:11:10:5bo$4bobo$3bo
 :LaundryPizza03, 2021:B367/S05678:B3678/S05678:43:0:0:18:15:7b4o$6b6o$5b8o$4b10o$3b12o$2b14o$18o$18o$18o$2b14o$3b12o$4b10o$5b8o$6b6o$7b4o!
 :David Raucci, 2021:B3/S23:B3/S23:486/2:0:0:62:53:9b2o40b2o$10bo40bo$10bobo36bobo$11b2o36b2o13$5bo50bo$3b3o50b3o$2bo3b2o46b2o3bo$bob2o3bo26b2o16bobob2obo$bobo4bo25bo2bo16bobobobo$2obobobo25bo2bo21bob2o$3bo3bo26bobo18bo2bo$3bob2o49bobo$2b2ob2o48b2ob2o4$2b2ob2o48b2ob2o$3bobo49b2obo$3bo2bo18bobo26bo3bo$2obo21bo2bo25bobobob2o$bobobobo16bo2bo25bo4bobo$bob2obobo16b2o26bo3b2obo$2bo3b2o46b2o3bo$3b3o50b3o$5bo50bo13$11b2o36b2o$10bobo36bobo$10bo40bo$9b2o40b2o!
 :David Raucci, 2021:B3/S23:B3/S23:217:0:0:82:82:46b2o$43bo6bo$42bo8bo$45b4o$42b3o4b3o$35b2o6b2ob2ob2o6b2o$35b2o7b6o7b2o$45b4o6$45b4o$35b2o7b6o7b2o$35b2o6b2ob2ob2o6b2o$42b3o4b3o$45b4o$42bo8bo$43bo6bo$46b2o2$45b3o$5b2o7b2o16b2o10bo3bo$5b2o7b2o16b2o10bo3bo$45b3o3$44b3o$47b4o$2bobo11bobo15b2o13b2o$bo2b2o9b2o2bo9b3ob2obo8bo4bo$4b3o7b3o12b2obo3bo12bo7b2o$3bo2b2o5b2o2bo5b2o4bo6bo9bo3bo6b2o$o2bob3o5b3obo2bobo2bo3bo5bo14b2o$o2bob3o5b3obo2bobo2bo2bo4bo13bo3bo14b2o7b2o$3bo2b2o5b2o2bo4bo2bo2bo2bo16b3o15b2o7b2o$4b3o7b3o6b2o3bo$bo2b2o9b2o2bo$2bobo11bobo3$63bobo11bobo$62bo2b2o9b2o2bo$53bo3b2o6b3o7b3o$5b2o7b2o15b3o16bo2bo2bo2bo4bo2b2o5b2o2bo$5b2o7b2o14bo3bo13bo4bo2bo2bobo2bob3o5b3obo2bo$30b2o14bo5bo3bo2bobo2bob3o5b3obo2bo$23b2o6bo3bo9bo6bo4b2o5bo2b2o5b2o2bo$23b2o7bo12bo3bob2o12b3o7b3o$31bo4bo8bob2ob3o9bo2b2o9b2o2bo$31b2o13b2o15bobo11bobo$31b4o$35b3o3$34b3o$33bo3bo10b2o16b2o7b2o$33bo3bo10b2o16b2o7b2o$34b3o2$34b2o$31bo6bo$30bo8bo$33b4o$30b3o4b3o$23b2o6b2ob2ob2o6b2o$23b2o7b6o7b2o$33b4o6$33b4o$23b2o7b6o7b2o$23b2o6b2ob2ob2o6b2o$30b3o4b3o$33b4o$30bo8bo$31bo6bo$34b2o!
+:LaundryPizza03, 2021:B3/S014:B378/S014678:18/2:0:0:12:5:2bo$6b2o$o10bo$6bo$5bo3bo!
+:2718281828, 2019:B35/S0246:B35/S02468:56:0:0:13:13:o11bo2$2bo3bo3bo$5bobo$4bo3bo$3bo5bo$2bo3bo3bo$3bo5bo$4bo3bo$5bobo$2bo3bo3bo2$o11bo!
+:LaundryPizza03, 2021:B358/S0356:B358/S0356:22/2:0:0:4:5:bobo$3o$b2o$3o$bobo!
+:LaundryPizza03, 2021:B358/S03567:B358/S03567:24/2:0:0:5:5:bo$3o$bo2bo$4bo$2b3o!
+:LaundryPizza03, 2021:B35/S03567:B358/S035678:20/2:0:0:3:4:3o$2bo$2bo$3o!
+:unknown, 2016:B35/S3567:B358/S03567:20/2:0:0:6:5:b4o$6o$2b2o$b4o$bo2bo!
+:LaundryPizza03, 2021:B358/S0347:B358/S0347:50/2:0:0:3:4:3o$bo$3o$bo!
+:LaundryPizza03, 2021:B358/S01458:B3578/S01458:10:0:0:6:7:2bo$b3o$o3bo2$2bo$2bo2bo$b3o!
+:LaundryPizza03, 2021:B357/S3567:B357/S3567:24:0:0:8:8:6b2o$5b3o$4b3o$3bobo$2bobo$b3o$3o$2o!
+:Alessandro Morelli, 2019:B357/S2567:B357/S2567:26/2:0:0:7:3:b5o$o5bo$b5o!
+:Daniel R. Collazo, 2016:B357/S2468:B3578/S2468:32:0:0:9:4:bo5bo$3o3b3o$3o3b3o$bo5bo!
+:LaundryPizza03, 2021:B357/S2567:B357/S2567:17:0:0:7:10:3bo$3ob3o$bobobo$2bobo$2b3o$2b3o$2bobo$bobobo$3ob3o$3bo!
+:Josh Ball, 2015:B3578/S3567:B3578/S3567:14/2:0:0:5:5:bobo$3o$b3o$2b3o$bobo!
+:Josh Ball, 2013:B357/S013:B3578/S01378:36/2:0:0:3:5:2bo$2o$2bo$2o$2bo!
+:LaundryPizza03, 2021:B357/S01467:B3578/S014678:50/2:0:0:4:5:o$bo$b2o$2bo$3bo!
+:LaundryPizza03, 2021:B357/S03578:B3578/S03578:28/2:0:0:7:4:o2b2o$b3obo$bob3o$2b2o2bo!
+:LaundryPizza03, 2021:B016/S123:B0168/S123:32/2:0:0:22:22:5b2o2b2o$5b2o2b2o$18bo$19bo2$2o$2o3$2o$2o$20b2o$20b2o3$20b2o$20b2o2$2bo$3bo$11b2o2b2o$11b2o2b2o!
+:LaundryPizza03, 2021:B016/S123:B016/S123:32/2:0:0:17:17:4b4o$4b4o2$2o$2o$2o$2o4$15b2o$15b2o$15b2o$15b2o2$9b4o$9b4o!
+:LaundryPizza03, 2021:B016/S0123:B016/S0123:32/2:0:0:17:17:4b4o$4b4o2$2o$2o$2o$2o4$15b2o$15b2o$15b2o$15b2o2$9b4o$9b4o!
+:LaundryPizza03, 2021:B0168/S0123:B0168/S0123:32/2:0:0:17:19:13b2o$4b4o$4b4o8bo$14bo$2o$2o$2o$2o4$15b2o$15b2o$15b2o$15b2o$2bo$o8b4o$9b4o$2b2o!
+::B02356/S:B023568/S0134:2:0:0:6:6:4b2o$b2o2bo$bo$4bo$o2b2o$2o!
+::B02356/S3:B023568/S034:4:0:0:3:3:bo$obo$bo!

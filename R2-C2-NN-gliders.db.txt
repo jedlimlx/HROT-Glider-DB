@@ -26,3 +26,6 @@
 :Lemon41625, 2021:R2,C2,S1,B3,6,NN:R2,C2,S0-1,5-12,B3,6-12,NN:2:-1:0:3:6:o2b$o2b$b2o$b2o$o2b$o!
 :Lemon41625, 2021:R2,C2,S0,2-4,B4,7,NN:R2,C2,S0,2-4,8,10-12,B4-5,7-12,NN:6:-1:0:3:3:b2o$3o$b2o!
 :Lemon41625, 2021:R2,C2,S0,2-4,B4,6,NN:R2,C2,S0,2-4,9-12,B4,6-7,9-12,NN:10:-1:1:5:4:2bo2b$o4b$2ob2o$b3o!
+:Lemon41625, 2021:R2,C2,S2-3,B4-6,NN:R2,C2,S0,2-3,6-12,B4-7,9-12,NN:2:0:1:6:4:b4ob$2b2o2b$o4bo$o4bo!
+:Lemon41625, 2021:R2,C2,S2-3,B4-6,NN:R2,C2,S2-3,10-12,B4-6,9-12,NN:3:0:1:11:19:4bobo4b$bo2bobo2bob$2obobobob2o$obobobobobo$o2bobobo2bo$bo2bobo2bob$2bo2bo2bo2b$b2obobob2ob$bobobobobob$b2obobob2ob$bobobobobob$2bob3obo2b$bob5obob$5bo5b$4bobo4b$5bo5b$b3obob3ob$2bo5bo2b$5bo!
+:Lemon41625, 2021:R2,C2,S2-3,B3,NN:R2,C2,S2-3,6-12,B3,8-12,NN:2:0:1:6:5:6o$2o2b2o$o4bo$2b2o2b$bo2bo!
