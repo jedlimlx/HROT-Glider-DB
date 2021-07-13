@@ -10,7 +10,7 @@
 :Lemon41625, 2020:R2,C2,S2,B3,9,NN:R2,C2,S2,7-12,B3,7-12,NN:11:-3:0:9:4:8bo$obo5bo$obo5bo$8bo!
 :Lemon41625, 2020:R2,C2,S2,B3,NN:R2,C2,S2,8-12,B3,8-12,NN:16:4:5:4:4:4o$o3b$3bo$b2o!
 :Lemon41625, 2020:R2,C2,S2,B3,NN:R2,C2,S2,10-12,B3,8-12,NN:28:2:-2:11:10:2o9b$bo9b$bo9b$11b$11b$11b$11b$11b$8b3o$10bo!
-:Lemon41625, 2020:R2,C2,S3-4,B4-6,NN:R2,C2,S0-1,3-4,8-12,B4-12,NN:4:-1:-1:3:4:b2o$3o$3o$2bo!
+:Saka, 2017:R2,C2,S3-4,B4-6,NN:R2,C2,S0-1,3-4,8-12,B4-12,NN:4:-1:-1:3:4:b2o$3o$3o$2bo!
 :Lemon41625, 2020:R2,C2,S9,B0-3,NN:R2,C2,S9,B0-3,12,NN:6:-1:-1:10:10:6bo3b$2bo4bo2b$bo3bo4b$3b4o3b$3b5o2b$2b5o2bo$o2b5o2b$bo2bobo3b$10b$5bo!
 :Lemon41625, 2020:R2,C2,S9,B0-3,NN:R2,C2,S3,9,B0-3,9,12,NN:4:0:-2:8:10:3b2o3b$8b$o2b2o2bo$2b4o2b$2b4o2b$b6ob$2b4o2b$o6bo$bo4bob$3b2o!
 :Lemon41625, 2021:R2,C2,S,B3,5,NN:R2,C2,S0,3-12,B3,5-12,NN:2:-1:-1:4:3:2b2o$o2bo$bo!
@@ -31,3 +31,9 @@
 :Lemon41625, 2021:R2,C2,S2-3,B3,NN:R2,C2,S2-3,6-12,B3,8-12,NN:2:0:1:6:5:6o$2o2b2o$o4bo$2b2o2b$bo2bo!
 :Lemon41625, 2021:R2,C2,S,B2,NN:R2,C2,S2-12,B2,4-12,NN:1:0:1:4:3:b2ob$4b$o2bo!
 :Lemon41625, 2021:R2,C2,S2-3,B4-6,8,NN:R2,C2,S2-3,9-12,B4-6,8-12,NN:2:0:1:13:23:5b3o5b$4bo3bo4b$3b2o3b2o3b$b2ob2ob2ob2ob$4obobob4o$2bo2bobo2bo2b$2ob2o3b2ob2o$obo7bobo$bo4bo4bob$13b$b2o7b2ob$b4o3b4ob$bo4bo4bob$2o3bobo3b2o$2o9b2o$2ob2o3b2ob2o$2o9b2o$bo2bo3bo2bob$2o9b2o$bo2bo3bo2bob$2obo5bob2o$bo9bob$2bo7bo!
+:Lemon41625, 2021:R2,C2,S2-3,B4-6,NN:R2,C2,S2-3,9,11-12,B4-6,10-12,NN:4:0:1:5:21:b3ob$2bo2b$5b$b4o$bob2o$b2o2b$5b$5b$b4o$o3bo$4bo$4bo$4bo$2b3o$2b2ob$2b2ob$3bob$3bob$5b$3bob$3bo!
+:Saka, 2017:R2,C2,S3-5,B4,NN:R2,C2,S0,3-5,8-12,B4,7,9-12,NN:3:1:0:4:4:bo2b$2o2b$o2bo$3o!
+:Lemon41625, 2021:R2,C2,S2-4,B4,8,10,NN:R2,C2,S1-4,11-12,B4,8-12,NN:3:-1:-1:7:7:3bobob$2bo2b2o$bo2b2ob$o3bo2b$2b2o3b$3o4b$bo!
+:Lemon41625, 2021:R2,C2,S2-4,B4,8-9,NN:R2,C2,S2-4,8-12,B4,8-12,NN:3:1:0:4:5:bobo$2obo$o2bo$4b$b3o!
+:Lemon41625, 2021:R2,C2,S2-4,B4,8-10,NN:R2,C2,S0,2-4,10-12,B4,8-12,NN:2:0:1:20:48:9b2o9b$8bo2bo8b$7b6o7b$6bob4obo6b$6b3o2b3o6b$5bo3b2o3bo5b$7b2o2b2o7b$6b3o2b3o6b$3b2obo2b2o2bob2o3b$2bo4b2o2b2o4bo2b$2bo2bob2o2b2obo2bo2b$5bob6obo5b$3bo2bo6bo2bo3b$3bo2bo6bo2bo3b$4bo10bo4b$bo3bo8bo3bob$b3ob2o6b2ob3ob$bob2obo6bob2obob$3obo10bob3o$bo4b3o2b3o4bob$2bo4bo4bo4bo2b$6bo2b2o2bo6b$6bo2b2o2bo6b$5b4o2b4o5b$6b8o6b$9b2o9b$5b4o2b4o5b$5bo3b2o3bo5b$5b3ob2ob3o5b$6b3o2b3o6b$8bo2bo8b$7b2o2b2o7b$7bo4bo7b$5b2o2b2o2b2o5b$3b4o6b4o3b$3bo2bo6bo2bo3b$4bobo6bobo4b$2bo14bo2b$4bo10bo4b$2b3obo6bob3o2b$bobo2bob4obo2bobob$bobo12bobob$4bobobo2bobobo4b$bo16bob$4bo4b2o4bo4b$bo2bo10bo2bob$2bo14bo2b$2bo14bo!
+:Lemon41625, 2021:R2,C2,S0,2-4,B4,7,NN:R2,C2,S0,2-4,8,10-12,B4-5,7-12,NN:6:-1:0:3:3:b2o$3o$b2o!
