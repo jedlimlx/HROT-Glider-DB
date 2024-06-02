@@ -1,14 +1,45 @@
 :Peter Naszvadi, 2016:B02/S0V:B02/S0V:8:0:-4:5:3:bobo2$2ob2o!
-:Peter Naszvadi, 2017:B0124/S13V:B0124/S13V:4:-2:0:4:5:bo$3o$2bo$o2bo$b2o!
-:Peter Naszvadi, 2017:B024/S1V:B024/S1V:4:0:-2:3:2:obo$o!
+:Ilmari Karonen, 2003:B024/S1V:B024/S1V:4:0:-2:3:2:obo$o!
+:Ilmari Karonen, 2003:B024/S1V:B024/S1V:4:-2:0:2:5:bo2$2o2$bo!
 :Peter Naszvadi, 2017:B02/SV:B024/SV:4:0:-2:4:3:bo$obo$2b2o!
-:Peter Naszvadi, 2017:B02/S0V:B02/S0V:8:0:-4:5:3:bobo2$2ob2o!
-:Peter Naszvadi, 2017:B02/S1V:B02/S1V:12:1:1:4:4:2o$obo2$2b2o!
-:Peter Naszvadi, 2020:B04/S1V:B04/S1V:4:1:0:9:8:5bo$3b2obo$5bo$bo$o2bo$bo$2b3o$5b2obo!
-:Peter Naszvadi, 2020:B02/S0V:B02/S0V:8:4:0:3:5:o$obo2$obo$o!
-:Peter Naszvadi, 2020:B02/SV:B024/S0V:2:1:0:2:6:o$2o3$2o$o!
-:Aidan F. Pierce, 2020:B04/S1V:B04/S1V:6:1:0:21:20:8bo$7bobobo2bo$8bo2bo$5bob3o$4b7obobo$6b5ob2o2bobo$b2o2bob3o4bo5bo$6b2o5bob2o3bo$o4bo14bo$b2obo$b2obo$o4bo14bo$6b2o5bob2o3bo$b2o2bob3o4bo5bo$6b5ob2o2bobo$4b7obobo$5bob3o$8bo2bo$7bobobo2bo$8bo!
-:Aidan F. Pierce, 2020:B02/S01V:B02/S01V:4:1:0:32:16:7bobo$2bo3b2ob2o10bo$o2b4obo3bo7b2o$o2bob3ob5o6b2o$2bo4bo2b2o2b2o5b3o6b2o$6bo2b2obob3o6bo4b3o$5b4ob2o3bo2bo5b2obob2o$4b2o3b2o4b3o2bob9o$4b2o3b2o4b3o2bob9o$5b4ob2o3bo2bo5b2obob2o$6bo2b2obob3o6bo4b3o$2bo4bo2b2o2b2o5b3o6b2o$o2bob3ob5o6b2o$o2b4obo3bo7b2o$2bo3b2ob2o10bo$7bobo!
-:Peter Naszvadi, 2020:B02/S1V:B02/S1V:4:1:0:4:10:bo2$2o$o2bo$3o$3o$o2bo$2o2$bo!
-:Peter Naszvadi, 2020:B03/S0V:B03/S0V:8:-4:0:16:25:4bobobo3b4o$13bo$6bobobob2o$12b4o$13bo$12b4o$6bobobob2o$13bo$4bobobo3b4o8$ob3o2bo6b2o$3b2obo$o3b2o2b2o4b2o2$5bo3bo4b2o2$o3b2o2b2o4b2o$3b2obo$ob3o2bo6b2o!
-:Peter Naszvadi, 2020:B03/S0V:B03/S0V:8:-4:0:12:9:obobo3b4o$9bo$2bobobob2o$8b4o$9bo$8b4o$2bobobob2o$9bo$obobo3b4o!
+:Peter Naszvadi, 2017:B02/S1V:B02/S1V:12/2:-1:1:4:4:o$b2o$bobo$3bo!
+:Peter Naszvadi, 2020:B04/S1V:B04/S1V:4:-1:0:9:8:5bo$3b2obo$5bo$bo$o2bo$bo$2b3o$5b2obo!
+:Peter Naszvadi, 2020:B02/SV:B024/S0V:2:-1:0:2:6:o$2o3$2o$o!
+:Peter Naszvadi, 2020:B024/S1V:B024/S1V:4:-2:0:2:6:2o2$bo$bo2$2o!
+:Aidan F. Pierce, 2020:B04/S1V:B04/S1V:6:-1:0:21:20:8bo$7bobobo2bo$8bo2bo$5bob3o$4b7obobo$6b5ob2o2bobo$b2o2bob3o4bo5bo$6b2o5bob2o3bo$o4bo14bo$b2obo$b2obo$o4bo14bo$6b2o5bob2o3bo$b2o2bob3o4bo5bo$6b5ob2o2bobo$4b7obobo$5bob3o$8bo2bo$7bobobo2bo$8bo!
+:May13, 2023:B02/S01V:B02/S01V:4:0:1:18:15:8b2o3$6b6o$b2o3bob2obo3b2o$4ob2o4b2ob4o$3b2ob6ob2o$3bob8obo$3b3o6b3o$6bob2obo$4bobo4bobo$4b4o2b4o$3bo3b4o3bo$4bobob2obobo$7bo2bo!
+:Peter Naszvadi, 2020:B02/S1V:B02/S1V:4:-1:0:4:10:bo2$2o$o2bo$3o$3o$o2bo$2o2$bo!
+:Peter Naszvadi, 2020:B03/S0V:B03/S0V:8:4:0:12:9:obobo3b4o$9bo$2bobobob2o$8b4o$9bo$8b4o$2bobobob2o$9bo$obobo3b4o!
+:Peter Naszvadi, 2020:B023/S01V:B023/S01V:4:-2:0:4:7:3o$ob2o$b2o2$b2o$ob2o$3o!
+:Kiho Park, 2022:B024/S1V:B024/S1V:4/2:-1:1:19:18:4bobo$2bo3b2o$2b2o2bobo$b9o$2b2o2b3o$2b3o2b2o$ob3obo2bo$5bo4bobo$4bobo4bobo$7bo4b3o$4bo8bo$11bobobo$8bo2b3obo$11bobo4bo$15bo$15bo2bo$14b4o$13bo!
+:Peter Naszvadi, 2022:B024/S1V:B024/S1V:6:1:0:11:9:7bobo2$8bobo2$ob2o3bo2$8bobo2$7bobo!
+:Kiho Park, 2022:B024/S12V:B024/S12V:2:-1:1:4:4:obo$bobo$ob2o$b2o!
+:Peter Naszvadi, 2023:B02/S1V:B02/S1V:6:-1:0:7:8:5bo$bo2b3o$4b2o$ob2o$2b3o$4bo$4bo$5bo!
+:May13, 2023:B02/S1V:B02/S1V:4/2:-1:1:15:17:12bo$3b3obobo$2b2o10bo$2bo10bo$o2bo2b2o6bo$b2obo3b2o$bobo4bobo$2bobo$b3obo2$5bobo$o$bo$o$bobo2$3bo!
+:May13, 2023:B02/S1V:B02/S1V:6:-1:1:23:23:10bo$9bobo$10b3o$8b2ob3o$10b3obo$7b4o$10bo2bo$5bo3bo$3bobo7bobo$bobobobo5bo2b2o$obob3o6bo2bo$b4o7b2o3bob2o$2b3o6b2o2b2o2bo$3bo2bob4ob2o2b2obo$4bo8b2o2bobobo$8bo3bo3bo3b3o$9b2obo2bo5bo$9bobob2o$13bo$11b2obo$11bobobo$14b3o$15bo!
+:Kiho Park, 2023:B02/S1V:B02/S1V:6:0:2:9:16:2bo3bo$3b3o$3b3o$3b3o$3b3o$2bobobo2$3o3b3o$3bobo$b3ob3o$3bobo$obo3bobo$bo5bo$2bo3bo2$2bo3bo!
+:May13, 2023:B04/S1V:B04/S1V:8:-2:2:20:17:5bobo$b2obobobo$2bo2b3o$4b2o2bobo$o3bob2o3bo$bo3bo$2bo$3bo3b2obo$4bo4bobo$8b3o5bo$7b3o7bobo$7b2o3bo5bo$9bo$10bo$11bo$12bobo$13bo!
+:May13, 2023:B04/S1V:B04/S1V:8/2:-1:1:19:19:4bo2bo$5bo2bobo$2bo3bo$2b2o2b2o$b2o4bo4bo$2bo4bobobobo$10bo$o3bobo$obob2obo$2bob2o2bo4bo2$4bo3bo8bo$9bobo2bo$8bobo$16bo$17bo$11bo3b2obo$12bobo2bo$13bo!
+:May13, 2023:B02/S1V:B02/S1V:2:0:1:12:7:5b2o$2b2ob2ob2o$obob4obobo$bo8bo$b3o4b3o$3bo4bo$3bo4bo!
+:May13, 2023:B02/S1V:B02/S1V:8:0:1:10:14:bo6bo$2b6o$2ob4ob2o$2b6o$3b4o2$2bob2obo2$bobo2bobo$2bob2obo$4b2o$4b2o$3bo2bo$4b2o!
+:May13, 2023:B02/S1V:B02/S1V:8/2:-1:1:7:7:2b2o$2bobobo$obo2bo$b2o2b2o$2bobo$bo$2bobobo!
+:May13, 2023:B02/S1V:B02/S1V:6:-1:2:55:60:bo$3bo$o$ob3o$bob5o$4bob4o$6bo4bo$3bo4b3o2bo$4b2o5b2obo$5bo4b2obobo$5b3ob2o3bobo$6b3o5b2o$7bo4bobo2bo$8bo7b3o$9bo7b2o$7b3o8bo$18b3o$11b2o4bobobo$12b3o2b3o$11bo2bo2b2o5b2o$11bo4bo4b2obo$12bo3bobo2b6o$14bo3b3o2bobo3bo$22bobo4bo$23bo4b2o$21b2obo4b3o$23bobo3bobo$19b2ob4o5bo$20bob2obobo$23bo5bo2bo$23bo4b8o$23bo3b2o3b2o2bo$24bo3bo5bo$28bo3bo3bo$29b5obo2b2ob2o$35bo5bo$32bo5bob5o$33bob2o2bob2o$35b4o3bobo$32bo3bobo$33bo3b2obo$32bo3b4o3bo2bo$36bobob3o2b4o$36bobo3b3ob3o$36b3o2bo2b2ob2obo$38b2obob3ob2obo$36bo7b8o$37b2o4bob4o$42bob5o$42bob5obo$45b4o3bobo$44b4ob2ob2o$44bob2o3bo$44bob4o3bo$45bo6bo$45bob3o2bo2$51b2o$50bobo$50bo!
+:May13, 2023:B02/S01V:B02/S01V:6:0:1:12:8:4bo2bo$5b2o$3b6o$bob6obo$2b8o$2b2o4b2o$4o4b4o$obo6bobo!
+:May13, 2023:B02/S01V:B02/S01V:8/2:-1:1:12:12:4bobo$bobobobo$3obobo$2obobobo$bo4bobo$obo5b2o$bo7bobo$obo$bo$obo$bob2o$4b2o!
+:May13, 2023:B03/S0V:B03/S0V:4:0:1:11:18:6bobo$4bo5bo$4bobobobo$bobobo3bo$b2obo4bo$bo7bo$bo7bo$bo7bo$bo2bobo2bo$b2o5b2o$2bobobobo$b3o3b3o$obo5bobo$4bobo2$2bobobobo$2bobobobo$3b2ob2o!
+:May13, 2023:B024/SV:B024/SV:4:0:1:26:53:3bo2bo12bo2bo$bo6b3o4b3o6bo$10bob2obo$o4b3o3b4o3b3o4bo$3bo2b3o8b3o2bo$3o5bo8bo5b3o$b2o4b2ob6ob2o4b2o$o11b2o11bo$b2o4bo10bo4b2o$7bobo6bobo$2bob2o3bobo2bobo3b2obo$2bo2bo2b3ob2ob3o2bo2bo$5bobo10bobo$2bobobo2bo2b2o2bo2bobobo$bo7b3o2b3o7bo$3bob2o3b2o2b2o3b2obo$b3o4bobo4bobo4b3o$3bo18bo$b3o4bo3b2o3bo4b3o$3b2o5bob2obo5b2o$5b2o3b6o3b2o$5b2ob2o2b2o2b2ob2o$7b2o3b2o3b2o$3b3o4bo4bo4b3o$5b2o3bob2obo3b2o$3b2o16b2o$2bob2o6b2o6b2obo$obob2obo3b4o3bob2obobo$bo10b2o10bo$11b4o$ob2o18b2obo$11b4o$3bo6b2o2b2o6bo$bo8bo4bo8bo$8b2o6b2o$b2o3bobo8bobo3b2o$2bobo2b4o4b4o2bobo$bo4b3o8b3o4bo$6b5o4b5o$4bo2b3o6b3o2bo$3b6o8b6o$7b4o4b4o$4bob3o8b3obo$2bobo2b4o4b4o2bobo$8b2o6b2o$6b3o8b3o$b3o4b3o4b3o4b3o$2bo3b4o6b4o3bo$2bo4bo10bo4bo$8bob2o2b2obo$2b3ob3o2bo2bo2b3ob3o$3bo2bobobo4bobobo2bo$3bobo14bobo!
+:May13, 2023:B02/SV:B02/SV:4:0:1:28:38:3bo2bo14bo2bo$bo6b3obo2bob3o6bo$10b2o4b2o$o4b3o4b4o4b3o4bo$3bo2b2o3b2o2b2o3b2o2bo$3o5b2obo4bob2o5b3o$b2o5b2o2bo2bo2b2o5b2o$o7b2o2bo2bo2b2o7bo$b2o5b3obo2bob3o5b2o$3b2o4b10o4b2o$2bo2bobo4bo2bo4bobo2bo$bobo2bo5bo2bo5bo2bobo$o2bo2bo4b6o4bo2bo2bo$4bobobo2bo4bo2bobobo$4b3obo3bo2bo3bob3o$11bo4bo$4bob2obo8bob2obo2$11bo4bo$3b3o3b3o4b3o3b3o$3b2ob3o10b3ob2o$3bo3bo12bo3bo$10bo6bo$8b2o8b2o$8bo10bo$9bo8bo$9bobo4bobo$7bob2o6b2obo$4bo3b2o8b2o3bo$5b2o14b2o$5bob2obo6bob2obo2$7bo12bo$4b8o4b8o$7bo2bo6bo2bo$4bo2b2o10b2o2bo$6bo3bo6bo3bo$7bo12bo!
+:May13, 2023:B02/S0V:B02/S0V:4:0:1:10:17:3bo3bo$5bo2$2bob3obo$3b5o2$2b3ob3o$o3bobo$o4b2o$2o4bo$4o2b3o$2bo3b4o$2b7o$4bob2o$4b4o$5bobo$8bo!
+:May13, 2023:B02/S0V:B02/S0V:4/2:-1:1:19:19:12bobo$8b3ob2o$10bobo$10b2obo$8bo2bo$8bo5bo$9bo3bobo$7b2ob2o$4bo2b3o2bo4bo$3obo2b2o6bobo$2bobo3bo2bo6bo$7bo3b3o$2obobobobob3o$obo7bob3o$ob3o4bobobo$4bo5bo3bo$8bo$7b2o$8bo!
+:May13, 2023:B02/S0V:B02/S0V:6:-1:1:28:28:13bobo$12b3o$11b2o$11bo2$10b3o$8bobobo2b3o$9b3ob4o$6bob5ob2o3bobo$7b8o2bo2bo$5b8o4bo2bo$2b2obob5obo3b3ob2o$b2o2b2ob3obo8bo$2o5bobobo$bo5b3o7b2o3b2obobo$o5b3o8b2o6b2o$6b2o8b2o8bo$6bo2b3o2b4o$11bo2b2o$8bo2bo$9b2o$8bo2b2o$11bo2bo$14bo2$14b2o$15b2o$14bo!
+:May13, 2023:B023/S01V:B023/S01V:4:0:1:11:7:4o3b4o$o2bo3bo2bo$2obo3bob2o$3bo3bo$3b2ob2o$4bobo$4bobo!
+:May13, 2023:B024/S0V:B024/S0V:4:0:1:23:44:3bo15bo$2b3o3bo5bo3b3o$4bo2b3o3b3o2bo2$8bo5bo$9bo3bo$6bob3ob3obo$5b5o3b5o$6b4o3b4o$7b3o3b3o3$9bo3bo$9bo3bo$6bobo5bobo$5b2obobobobob2o$9bo3bo$bo7bo3bo7bo$3bob2o3bobo3b2obo$4bobobo5bobobo2$5b3o7b3o$4b4o7b4o$5b2o9b2o$6b2obo3bob2o$6b3o5b3o$7bo7bo$7bo7bo2$bo4bo9bo4bo$3bob2o9b2obo$5b4o5b4o$4bo2b2o5b2o2bo$6bo9bo$7b3o3b3o$7bobo3bobo2$5b2ob3ob3ob2o$6b3obobob3o$8bobobobo$bo5b2o5b2o5bo$4obob2o5b2obob4o$2bob4o7b4obo$6bo9bo!
+:May13, 2023:B024/S1V:B024/S1V:4:0:1:5:11:2bo3$2bo3$2bobo$obo$4bo2$4bo!
+:May13, 2023:B024/S1V:B024/S1V:8:0:1:5:19:o3bo$2bo$o3bo2$o3bo$obobo$obobo$o3bo$o3bo$2bo$o3bo2$2bo$o3bo$o3bo$o3bo3$o3bo!
+:May13, 2023:B024/S1V:B024/S1V:6:0:2:9:26:bo5bo$3bobo$o2bobo2bo$3bobo$4bo2$4bo2$2bo3bo$2bobobo$o7bo2$4bo2$o7bo$obobobobo$4bo$2bobobo$4bo2$o7bo2$2bo3bo$2bobobo2$2bo3bo!
+:May13, 2023:B024/S1V:B024/S1V:8:0:3:13:38:2bo7bo3$2bo7bo$2bobobobobo3$4bo3bo$4bobobo$o5bo5bo$o5bo5bo$4bobobo$6bo$4bobobo$obo3bo3bobo$2bobobobobo$2bo3bo3bo$obo7bobo$2bo7bo4$o11bo$2bo3bo3bo$6bo$2bo3bo3bo$2bobobobobo$2bo3bo3bo$4bo3bo$4bo3bo$4bo3bo$4bo3bo2$4bo3bo$4bo3bo3$6bo!
+:May13, 2023:B02/S01V:B02/S01V:6:-1:1:33:33:15bo$15b2o4bo$11b3obob2obobo$11b2o3b2obobo$11bo3b2o3bobo$8b3o3bobo2bobo$8b2obo3bobobo$8bobo5b4o$5b5o6bo2bobo2bobo$5b2ob5o7bob2obobo$5bobob3o7bobo2bobobo$2b3obo2b4obo3bobob2obobo$2b2o5bob4ob2obobo2bo$2bo9b4ob2obo4bo$5bo5b4obo2bobo2bo$3obobo6bobobo2bo2bobo$bob3ob2o3bobo8bo2b2obobo$2b2o2b2o4b2obo8bobobobobo$2bo4bo3bobo9bobo3bobo$3bob4obobobo9bobo3bo$2bobo4bobobobo9bo$bobobo2bobobobo$2bobo4bobo$9bobo3b2obo$8bobobobo2bobo$9bobobobo2bobo$8bobo5b2obo$9bobo4bo$10bo6bo$16bobo$17bobo$16bobo$17bo!
+:May13, 2023:B03/S1V:B03/S1V:4/2:-1:1:10:9:4bo$4b2o2bo$bobo3b3o$2bo5bo$o4$bo!
+:May13, 2023:B023/S1V:B023/S1V:4:0:2:23:38:8b2o3b2o$7b2o5b2o$9b2ob2o$9b2ob2o$8b2o3b2o2$9b2ob2o$7b2obobob2o$4b5o5b5o$3bobobo2bobo2bobobo$bo3b3o2bobo2b3o3bo$2b3o2bob2ob2obo2b3o$bo3bobo2bobo2bobo3bo$5bo11bo$b2ob2ob2o5b2ob2ob2o$bobobo4bobo4bobobo$5o4b5o4b5o$b10ob10o$5bob2o5b2obo$3o3b3o5b3o3b3o$2b2o2b5ob5o2b2o$bo4b5ob5o4bo$3o2bo2b2o3b2o2bo2b3o$bob2o2b4ob4o2b2obo$5b2o2b2ob2o2b2o$7bo3bo3bo$7bob2ob2obo$8b7o$9b5o$11bo$7b2o2bo2b2o$6b2o3bo3b2o$10b3o$6b2obobobob2o$8bob3obo$8bob3obo$9bobobo$9bobobo!
+:May13, 2023:B02/S2V:B024/S02V:2:-1:1:23:15:4b2o$b2o2b2o2$b6o4b4o$4b6o4b2o$b2o4b2o4b4o$12b2o2b2o$3b6o4b4o$2o2b4o6b4o$b8o10b2o$4b4o8b6o$15b4o2b2o$16b6o$17b6o$18b4o!
+:May13, 2023:B02/S2V:B02/S2V:2:0:1:38:17:6b4o18b4o$5bo4bo16bo4bo$11bo6b2o6bo$5bo6bo4bo2bo4bo6bo$4bobo3b4o2b6o2b4o3bobo$2bo5b2ob2o4b4o4b2ob2o5bo$bo7b20o7bo$3obobobo4b12o4bobobob3o$b2o2b2obo4b12o4bob2o2b2o$o2b3obo3b2ob10ob2o3bob3o2bo$bo2bobo3bo2bo2b6o2bo2bo3bobo2bo$bo2b30o2bo$b2o2b4o2b2o2b8o2b2o2b4o2b2o$2bobo4b6ob6ob6o4bobo$3bo6b4o3b4o3b4o6bo$3b11o10b11o$4bob2ob4o12b4ob2obo!
